@@ -1,0 +1,141 @@
+invoice
+attached
+payment
+overdue
+unpaid
+balance
+wire
+transfer
+bank
+details
+verify
+identity
+urgent
+request
+action
+required
+login
+immediately
+reset
+password
+security
+alert
+account
+suspended
+ceo
+cfo
+hr
+department
+vendor
+update
+change
+beneficiary
+executive
+team
+approve
+transaction
+finance
+report
+confidential
+client
+contract
+purchase
+order
+method
+final
+notice
+tax
+statement
+download
+file
+document
+click
+confirm
+fraud
+unauthorized
+access
+new
+business
+opportunity
+remit
+funds
+billing
+info
+subscription
+activation
+offer
+limited time
+exclusive
+lottery
+prize
+winner
+claim
+gift
+reward
+voucher
+urgent action
+confirm account
+cancelled
+click here
+guaranteed
+promotional
+free trial
+you’ve been selected
+exclusive deal
+limited offer
+free gift
+congratulations
+payment confirmation
+claim your prize
+verification code
+reset your password
+security alert
+tax refund
+refund request
+personal data
+social security
+tax return
+refund
+financial statement
+gift card
+credit card
+debt
+loan
+offer expires
+immediate action required
+payment details
+survey
+survey results
+enrollment
+earn money
+gift certificate
+data breach
+emergency
+wire transfer
+authenticate
+bank transfer
+mobile payment
+fake
+urgent response
+payment gateway
+unknown sender
+transfer funds
+password reset
+verify identity
+request payment
+sensitive data
+data leak
+credit report
+urgent action
+blocked account
+failure to comply
+suspicious activity
+act now
+final notice
+appeal
+refund request
+debt collection
+pay now
+secure your account
+temporary hold
+cancelled account
